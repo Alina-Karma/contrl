@@ -1,0 +1,64 @@
+
+.subtitle{
+   
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 60px;
+    margin-bottom: 18px;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.text{
+    width: 368px;
+    height: 117px;
+    left: 171px;
+    top: 835px;
+    font-size: 16px;
+    line-height: 23px;
+    font-family: 'Hind Madurai', sans-serif;
+    opacity: 0,7;
+    font-weight:400;
+ 
+   
+
+}
+
+.number{
+    display: flex;
+  
+}
+.cost-number{
+    font-size: 26px;
+    padding-right: 10px;
+    margin-bottom: 18px;
+  
+}
+
+.no-number{
+    color: gray;
+    font-weight: 500;
+    font-size:20px;
+text-decoration: line-through;
+
+}
+
+.img-wrap{
+    height: 180px;
+    flex-shrink: 0;
+    overflow: hidden;
+    margin-bottom: 25px; 
+    
+}
+
+.button{
+    width: 208px;
+    height: 47px;
+    border-style: none;
+  
+    /* Primary */
+  
+    background: #f8729f;
+    border-radius: 5px;
+    color: #ffffff;
+   
+}
